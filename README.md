@@ -17,8 +17,9 @@ A fully functional  ASP.NET MVC  App where user can register using his/her name,
 - Visual Studio 2022
 ## Screenshots
 
-![p1](https://github.com/user-attachments/assets/3bd4efd8-9810-4060-b9e5-33ca9e76e826)
-![p2](https://github.com/user-attachments/assets/fe82200d-c8bd-4ccc-a8cd-64f703a860dc)
-![p3](https://github.com/user-attachments/assets/57c84d28-1ab1-42af-a9ee-514cbd75fd24)
-![p4](https://github.com/user-attachments/assets/d66d3250-5c60-416f-b3f4-b623b6c35944)
+![image1](https://github.com/user-attachments/assets/3d78552e-3ec9-4b7a-86c5-b92a88a3222b)
+![image2](https://github.com/user-attachments/assets/c6718348-aac9-4dae-a71f-b7c8a685bb3e)
+![image3](https://github.com/user-attachments/assets/83d8ea2d-3c85-43fd-be98-fcecbe34c74e)
+![image4](https://github.com/user-attachments/assets/da7e8703-00c4-4a7a-b571-9029aaafa93a)
+
 
